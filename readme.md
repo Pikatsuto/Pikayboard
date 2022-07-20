@@ -25,5 +25,5 @@ pip install -e .
 
 3 - Run
 ```bash
-python botoven
+python pikayboard
 ```
