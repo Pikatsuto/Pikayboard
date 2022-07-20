@@ -4,7 +4,7 @@ Autocomplete words programme
 
 ## Installation
 
-2 - Run the following command to install dependencies & run the bot.
+1 - Run the following command to install dependencies & run the bot.
 ```bash
 make
 ```
