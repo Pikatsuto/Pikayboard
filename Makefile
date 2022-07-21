@@ -20,4 +20,4 @@ $(VBIN):
 start: $(VBIN)
 	python pikayboard
 
-.PHONY: clean all start
+.PHONY: clean all
