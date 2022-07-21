@@ -18,6 +18,6 @@ $(VBIN):
 	sudo chmod +x /usr/share/applications/pikayboard.desktop
 
 start: $(VBIN)
-	python pikayboard
+	pikayboard
 
-.PHONY: clean all
+.PHONY: clean all start
