@@ -4,14 +4,9 @@ Autocomplete words programme
 
 ## Installation
 
-1 - Copy the environment variables example file and fill in the values.
+1 - Run the following command to install dependencies & run the bot.
 ```bash
-cp .env.example .env
-```
-
-2 - Run the following command to install dependencies & run the bot.
-```bash
-make
+sudo bash install.sh
 ```
 
 ### Installation without makefile:
@@ -30,5 +25,5 @@ pip install -e .
 
 3 - Run
 ```bash
-python botoven
+python pikayboard
 ```
